@@ -1,0 +1,11 @@
+---
+plugin: oracle.oci.oci
+regions:
+  - us-ashburn-1
+
+compartments:
+  - compartment_ocid: "ocid1.compartment.oc1..aaaaaaaaandoxj5l4pipdkaqdaj7i2pjaqnfr5tpnkeqyxvc422oqh6ausna"
+    fetch_compute_hosts: true
+
+hostname_format_preference:
+  - "public_ip"
