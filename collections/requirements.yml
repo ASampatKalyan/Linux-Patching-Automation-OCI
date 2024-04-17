@@ -1,4 +1,4 @@
 ---
 collections:
   - name: ansible.posix
-  - name: oracle.oci
+  - name: oracle.oci.oci
