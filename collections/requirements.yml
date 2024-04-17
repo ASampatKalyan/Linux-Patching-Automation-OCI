@@ -2,3 +2,4 @@
 collections:
   - name: ansible.posix
   - name: oracle.oci
+    source: https://old-galaxy.ansible.com/
